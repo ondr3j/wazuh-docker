@@ -1,0 +1,7 @@
+hosts:
+  - 1513629884013:
+      url: http://wazuh-manager
+      port: 55000
+      username: wazuh-wui
+      password: ChangeMe
+      run_as: false
